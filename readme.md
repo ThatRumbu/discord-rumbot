@@ -24,7 +24,7 @@ yarl==1.4.2
 
 ## Usage
 
-The layout's kinda wack already so I'll just chuck the basic commands here I s'pose, it's just cog management shit. The default command prefix is `..` so I'll be using that here but that easy asf to change so no stress if you think it's weird. I also put in way more aliases than I needed to so I'm not gonna put them in here but if it would make sense it'll probably work.
+The layout's kinda wack already so I'll just chuck the basic commands here I s'pose, it's just cog management shit. The default command prefix is `..` so I'll be using that here, but it's easy asf to change so no stress if you think it's weird. I also put in way more aliases than I needed to so I'm not gonna put them in here but if it would make sense it'll probably work.
 
 ### cogs
 
@@ -111,4 +111,4 @@ If your problem still persists feel free to ask me, just send me a message on di
 
 ### Do you cry youself to sleep because nobody finds you funny?
 
-I'm actually done with this shit. No more questions. <sub>Sometimes if I'm drunk and depressed</sub>
+I'm actually done with this shit. No more questions. <sub><sub>Sometimes if I'm drunk and depressed</sub></sub>
